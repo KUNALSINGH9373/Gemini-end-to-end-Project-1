@@ -1,1 +1,1 @@
-# End-To-End-Gemini-Project
+# Gemini-Project 1- Text and Image analysis
